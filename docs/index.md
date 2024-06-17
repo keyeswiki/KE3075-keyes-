@@ -42,7 +42,7 @@ keyes商标和徽标是KEYES DIY ROBOT co.,LTD的版权,任何人和公司在没
 
 # Keyes 光线检测套件
 
-![图片不存在](./media/0622f0b43c668fcf24c0dc2b3413160a.jpg)
+![Img](./media/ABC.jpg)
 
 ---
 
@@ -58,24 +58,24 @@ keyes商标和徽标是KEYES DIY ROBOT co.,LTD的版权,任何人和公司在没
 
 | 序号 | 名称 | 数量 | 图片 |
 | :--: | :--: | :--: | :--: |
-| 1 | 面包板 | 1 | ![图片不存在](./media/b7c6a61f9050e53f64bdeca423a32892.png)|
-| 2 | 光敏传感器 | 1 | ![图片不存在](./media/64f4a9e4d9b86ff8b0ef8b66afabffe0.png) |
-| 3 | 5V 单路继电器模块 | 1 | ![图片不存在](./media/1677c94f2390adeb3df19bfabd6ced88.png) |
-| 4 | 有源蜂鸣器模块 | 1 | ![图片不存在](./media/08cac8e036b616593db2d11a13d7922d.png) |
-| 5  |面包板专用电源模块|1|![图片不存在](./media/62ad1c318f4507c38556f376c502bbe9.png)|
-| 6 | 220Ω电阻 | 10 | ![图片不存在](./media/83dd3936e779ba45cddf56600115789d.png) |
-| 7 | 1KΩ电阻 | 10 | ![图片不存在](./media/9b934d4a221b3b257a455c3b3c4228e2.png)|
-| 8 | 红色LED | 5 |![图片不存在](./media/28c28e6163de71f861c1f8f9bf621ee2.png)|
-| 9 | 黄色LED | 5 | ![图片不存在](./media/538628fed136c06e104ae01b69774d34.png)|
-| 10 | 蓝色LED | 5 |![图片不存在](./media/f6bbd58a5d3ad73cbbb4f9dc6dbebce0.png) |
-| 11 | 绿色LED | 5 |![图片不存在](./media/cede9aadb081f8efbe1aa2884452296f.png) |
-| 12 | 白色LED | 5 | ![图片不存在](./media/8aebcf71e0db1a7f97458ee667b22878.png)|
-| 13 | 一字型螺丝刀  | 1 |![图片不存在](./media/f5504973a1c7bd3a74e8a9370a3c2358.png)|
-| 14 |公对母杜邦线|1| ![图片不存在](./media/dda94299cc2abaff2c9cb8ff7ce365ff.jpg)|
-| 15 |母对母杜邦线|1| ![图片不存在](./media/69e6d113c252cd1742d38913cb2f1b5b.png)|
-| 16 | 面包板连接线 | 1 | ![图片不存在](./media/b146f1221b43b628375e658c8c0bc91f.png)|
-| 17 |电阻卡 | 1 |![图片不存在](./media/443cb9da6e229e8e2ec048855e7dc367.png) |
-| 18 | 电源适配器 | 1 | ![图片不存在](./media/20a54fcaa52b0e56f8f185644cad8c12.png)|
+| 1 | 面包板 | 1 | ![Img](./media/1.png)|
+| 2 | 光敏传感器 | 1 | ![Img](./media/2.png) |
+| 3 | 5V 单路继电器模块 | 1 | ![Img](./media/3.png) |
+| 4 | 有源蜂鸣器模块 | 1 | ![Img](./media/4.png) |
+| 5  |面包板专用电源模块|1|![Img](./media/5.png)|
+| 6 | 220Ω电阻 | 10 | ![Img](./media/6.png) |
+| 7 | 1KΩ电阻 | 10 | ![Img](./media/7.png)|
+| 8 | 红色LED | 5 |![Img](./media/8.png)|
+| 9 | 黄色LED | 5 | ![Img](./media/9.png)|
+| 10 | 蓝色LED | 5 |![Img](./media/10.png) |
+| 11 | 绿色LED | 5 |![Img](./media/11.png) |
+| 12 | 白色LED | 5 | ![Img](./media/12.png)|
+| 13 | 一字型螺丝刀  | 1 |![Img](./media/13.png)|
+| 14 |公对母杜邦线|1| ![Img](./media/16.jpg)|
+| 15 |母对母杜邦线|1| ![Img](./media/21.png)|
+| 16 | 面包板连接线 | 1 | ![Img](./media/17.png)|
+| 17 |电阻卡 | 1 |![Img](./media/18.png) |
+| 18 | 电源适配器 | 1 | ![Img](./media/20.png)|
 
 ---
 
